@@ -1,0 +1,19 @@
+{
+  "name": "慢慢学英语 · Little by Little English",
+  "short_name": "慢慢学英语",
+  "description": "Chinese-supported everyday English by familiar scenes, daily phrases, and a searchable A1–C2 dictionary.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3e8",
+  "theme_color": "#386954",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

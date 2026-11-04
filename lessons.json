@@ -1,0 +1,255 @@
+{
+  "lessons": [
+    {
+      "id": "home",
+      "title": "At home",
+      "titleZh": "在家",
+      "description": "Things and people around the home",
+      "wordIds": [
+        "home",
+        "family",
+        "room",
+        "kitchen",
+        "door",
+        "bedroom",
+        "bathroom",
+        "window",
+        "chair",
+        "table"
+      ],
+      "phrases": [
+        {
+          "en": "Welcome home!",
+          "zh": "欢迎回家！",
+          "focus": "home"
+        },
+        {
+          "en": "This is my kitchen.",
+          "zh": "这是我的厨房。",
+          "focus": "kitchen"
+        },
+        {
+          "en": "Please close the door.",
+          "zh": "请关上门。",
+          "focus": "door"
+        },
+        {
+          "en": "My family is at home.",
+          "zh": "我的家人在家。",
+          "focus": "family"
+        },
+        {
+          "en": "Where is the bathroom, please?",
+          "zh": "请问卫生间在哪里？",
+          "focus": "bathroom"
+        },
+        {
+          "en": "The bedroom is upstairs.",
+          "zh": "卧室在楼上。",
+          "focus": "bedroom"
+        },
+        {
+          "en": "Please open the window.",
+          "zh": "请打开窗户。",
+          "focus": "window"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "en": "Where is the bathroom, please?",
+          "zh": "请问卫生间在哪里？"
+        },
+        {
+          "speaker": "B",
+          "en": "It is next to the bedroom.",
+          "zh": "它就在卧室旁边。"
+        },
+        {
+          "speaker": "A",
+          "en": "Thank you. I will open the window.",
+          "zh": "谢谢。我来打开窗户。"
+        },
+        {
+          "speaker": "B",
+          "en": "Please sit at the table.",
+          "zh": "请坐在桌边。"
+        }
+      ]
+    },
+    {
+      "id": "cafe",
+      "title": "At a café",
+      "titleZh": "在咖啡店",
+      "description": "Order a drink and ask for the bill",
+      "wordIds": [
+        "menu",
+        "tea",
+        "coffee",
+        "water",
+        "bill",
+        "cup",
+        "milk",
+        "bread",
+        "breakfast",
+        "lunch"
+      ],
+      "phrases": [
+        {
+          "en": "Could I see the menu, please?",
+          "zh": "可以让我看一下菜单吗？",
+          "focus": "menu"
+        },
+        {
+          "en": "I'd like a cup of tea, please.",
+          "zh": "我想要一杯茶。",
+          "focus": "tea"
+        },
+        {
+          "en": "Could I have some water, please?",
+          "zh": "可以给我一些水吗？",
+          "focus": "water"
+        },
+        {
+          "en": "Could we have the bill, please?",
+          "zh": "麻烦给我们账单好吗？",
+          "focus": "bill"
+        },
+        {
+          "en": "Would you like milk in your tea?",
+          "zh": "您的茶要加牛奶吗？",
+          "focus": "milk"
+        },
+        {
+          "en": "Could I have some bread, please?",
+          "zh": "可以给我一些面包吗？",
+          "focus": "bread"
+        },
+        {
+          "en": "Let’s have lunch here.",
+          "zh": "我们就在这里吃午饭吧。",
+          "focus": "lunch"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "en": "What would you like for lunch?",
+          "zh": "您午餐想吃什么？"
+        },
+        {
+          "speaker": "B",
+          "en": "Some bread and a cup of tea, please.",
+          "zh": "请给我一些面包和一杯茶。"
+        },
+        {
+          "speaker": "A",
+          "en": "Would you like milk in your tea?",
+          "zh": "您的茶要加牛奶吗？"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes, please. Thank you.",
+          "zh": "好的，谢谢。"
+        },
+        {
+          "speaker": "A",
+          "en": "Anything else?",
+          "zh": "还需要别的吗？"
+        },
+        {
+          "speaker": "B",
+          "en": "No, thank you.",
+          "zh": "不用了，谢谢。"
+        }
+      ]
+    },
+    {
+      "id": "getting-around",
+      "title": "Getting around",
+      "titleZh": "出门坐车",
+      "description": "Buses, tickets and directions",
+      "wordIds": [
+        "bus",
+        "station",
+        "ticket",
+        "street",
+        "left",
+        "train",
+        "taxi",
+        "right",
+        "road",
+        "map"
+      ],
+      "phrases": [
+        {
+          "en": "Where is the bus stop?",
+          "zh": "公交车站在哪里？",
+          "focus": "bus"
+        },
+        {
+          "en": "I'd like one ticket, please.",
+          "zh": "我想买一张票。",
+          "focus": "ticket"
+        },
+        {
+          "en": "Is the station on this street?",
+          "zh": "车站在这条街上吗？",
+          "focus": "station"
+        },
+        {
+          "en": "Turn left here.",
+          "zh": "在这里左转。",
+          "focus": "left"
+        },
+        {
+          "en": "Let’s take a taxi.",
+          "zh": "我们坐出租车吧。",
+          "focus": "taxi"
+        },
+        {
+          "en": "Turn right at the next street.",
+          "zh": "到下一条街向右转。",
+          "focus": "right"
+        },
+        {
+          "en": "The train leaves at six.",
+          "zh": "火车六点出发。",
+          "focus": "train"
+        }
+      ],
+      "dialogue": [
+        {
+          "speaker": "A",
+          "en": "Excuse me, where is the station?",
+          "zh": "不好意思，请问车站在哪里？"
+        },
+        {
+          "speaker": "B",
+          "en": "Go straight. The train station is on the right.",
+          "zh": "一直往前走。火车站在右边。"
+        },
+        {
+          "speaker": "A",
+          "en": "Can I take a taxi there?",
+          "zh": "我可以坐出租车去那里吗？"
+        },
+        {
+          "speaker": "B",
+          "en": "Yes. The taxi stand is across the road.",
+          "zh": "可以。出租车站在马路对面。"
+        },
+        {
+          "speaker": "A",
+          "en": "Thank you!",
+          "zh": "谢谢！"
+        },
+        {
+          "speaker": "B",
+          "en": "You’re welcome.",
+          "zh": "不客气。"
+        }
+      ]
+    }
+  ]
+}
